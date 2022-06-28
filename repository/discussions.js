@@ -10,14 +10,14 @@ module.exports.agoraStatesDiscussions = [
     username:'woong',
     title:'너무힘들어',
     content: '다신안해 더미데이터 수정',
-    createdAt: new Date().toISOString()
+    createdAt: new Date().toLocaleString()
   },
   { 
     id:11,
     username:'hyeon jun',
     title:'코어스터디',
     content: '잘부탁해요!',
-    createdAt: new Date().toISOString()
+    createdAt: new Date().toLocaleString()
   },
   { 
     id:10,
